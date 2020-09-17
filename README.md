@@ -1,18 +1,16 @@
 <img src="https://img.shields.io/static/v1?label=React&message=Github_Explorer&color=61DAFB&style=for-the-badge&logo=react"/>
-
-<h1 align="center">Github Explorer</h1>
-<p align="center">Projeto feito no bootcamp da Rocketseat.</p>
-
-<h4 align="center">
-	🚀 Github Explorer Finalizado!
-</h4>
-
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> •
  <a href="#deploy">Deploy</a> •
  <a href="#meta">Meta</a>
 </p>
+<h1 align="center">Github Explorer</h1>
+<h4 align="center">
+	🚀 Github Explorer Finalizado!
+</h4>
+<p align="center">Projeto feito no bootcamp da Rocketseat.</p>
+
 
 <h1 align="center">Objetivo</h1>
 Projeto front-end ultilizando ReactJS + API do Github.
