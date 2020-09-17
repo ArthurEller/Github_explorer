@@ -20,6 +20,15 @@ O Github Explorer tem como função, procurar por repositórios dentro do github
 Feito na Gostack 2020, com a intenção de aprendizado sobre como ultilizar o React JS
 
 
+## Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+
+
 ## Deploy
 
 Linux:
@@ -29,13 +38,6 @@ git clone https://github.com/ArthurHMES/Github_explorer/
 cd Github_explorer
 yarn start
 ```
-
-## Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [React](https://pt-br.reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 ## Meta
 
