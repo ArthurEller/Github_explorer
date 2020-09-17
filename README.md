@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/static/v1?label=Blog&message=Github_Explorer&color=61DAFB&style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/static/v1?label=React&message=Github_Explorer&color=61DAFB&style=for-the-badge&logo=react"/>
 
 <h1 align="center">Github Explorer</h1>
 <p align="center">Projeto feito no bootcamp da Rocketseat.</p>
@@ -6,11 +6,6 @@
 <h4 align="center">
 	🚀 Github Explorer Finalizado!
 </h4>
-
-
-<h1 align="center">
-  <img alt="Github Explorer" title="Github Explorer" src="./src/assets/logo.svg" />
-</h1>
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
@@ -46,4 +41,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Arthur Eller
 PROJETO FEITO NO BOOTCAMP ROCKETSEAT 2020
+
+
+
+<h1 align="center">
+  <img alt="Github Explorer" title="Github Explorer" src="./src/assets/logo.svg" />
+</h1>
 
