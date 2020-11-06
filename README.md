@@ -28,12 +28,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 ## Deploy
-
-Linux:
-
-```sh
 https://github-explorerhmes.netlify.app/
-```
 
 ## Meta
 
