@@ -32,9 +32,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Linux:
 
 ```sh
-git clone https://github.com/ArthurHMES/Github_explorer/
-cd Github_explorer
-yarn start
+https://github-explorerhmes.netlify.app/
 ```
 
 ## Meta
